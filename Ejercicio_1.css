@@ -1,0 +1,38 @@
+h1{
+    position: relative;
+    left: 8%;
+}
+button{
+    height: 10%;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    bottom: 5px;
+}
+p{
+    color: red;
+    position: relative;
+    bottom: 10px;
+    position: relative;
+    left: 4px;
+}
+#principal{
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(177, 252, 255);
+    border: 3px solid;
+    border-radius: 10%;
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60px;
+}
+input{
+    width: 90%;
+    position: relative;
+    left: 4px;
+}

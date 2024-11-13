@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(136, 132, 132);
+}
+input{
+    width: 30%;
+}
+h2{
+    color: blue;
+}
+
+#principal{
+    background-color: rgb(136, 132, 132);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#buscador{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 30px;
+    
+}
+.buscar{
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
